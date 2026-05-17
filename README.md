@@ -30,42 +30,6 @@ Busco sempre aprender novas tecnologias e melhorar minhas habilidades na área d
 
 ---
 
-# 📂 Projetos
-
-## 💻 Sistema de Cadastro em Java
-
-Projeto desenvolvido para prática de:
-- Programação Orientada a Objetos
-- Estruturas de decisão
-- Manipulação de dados
-- Interface simples
-
-### Tecnologias:
-☕ Java
-
----
-
-## 🌐 Site Responsivo
-
-Criação de um site moderno e responsivo voltado para estudos de front-end.
-
-### Tecnologias:
-🌐 HTML5  
-🎨 CSS3
-
----
-
-## 🐘 Sistema Web com PHP
-
-Sistema web com login e cadastro integrado ao banco de dados.
-
-### Tecnologias:
-🐘 PHP  
-🌐 HTML  
-🎨 CSS
-
----
-
 # 🔗 Redes Sociais
 
 <div align="center">
@@ -93,7 +57,6 @@ Sistema web com login e cadastro integrado ao banco de dados.
 - Desenvolvimento Web
 - Java
 - PHP
-- APIs
 - Git & GitHub
 
 ---
