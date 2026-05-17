@@ -67,12 +67,4 @@ Construir soluções inteligentes, evoluir como desenvolvedor e atuar profission
 
 ---
 
-# 📞 Contato
-
-📧 Email: seuemail@email.com
-
-💬 Sempre aberto para aprender, colaborar e participar de novos projetos.
-
----
-
 # ⭐ Obrigado por visitar meu perfil!
