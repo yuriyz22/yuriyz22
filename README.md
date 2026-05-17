@@ -16,7 +16,7 @@ Busco sempre aprender novas tecnologias e melhorar minhas habilidades na área d
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ Linguagens
 
 <div align="center">
 
