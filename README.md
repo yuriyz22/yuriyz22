@@ -24,8 +24,7 @@ Busco sempre aprender novas tecnologias e melhorar minhas habilidades na área d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
+
 
 </div>
 
@@ -64,26 +63,6 @@ Sistema web com login e cadastro integrado ao banco de dados.
 🐘 PHP  
 🌐 HTML  
 🎨 CSS
-
----
-
-# 📸 Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x400.png?text=Meu+Portfólio" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
