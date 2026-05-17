@@ -34,7 +34,7 @@ Busco sempre aprender novas tecnologias e melhorar minhas habilidades na área d
 
 <div align="center">
 
-<a href="https://github.com/SEUUSUARIO">
+<a href="[https://github.com/SEUUSUARIO](https://github.com/yuriyz22)">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
