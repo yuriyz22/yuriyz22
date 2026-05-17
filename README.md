@@ -1,16 +1,136 @@
-## Hi there 👋
+# 👨‍💻 Yuri Marques | Portfólio Developer
 
-<!--
-**yuriyz22/yuriyz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Seja bem-vindo ao meu portfólio 🚀  
+Sou Técnico em Informática e estudante de Engenharia de Software, apaixonado por tecnologia, desenvolvimento de sistemas e criação de soluções web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Sobre Mim
+
+🎓 Técnico em Informática  
+📚 Estudante de Engenharia de Software  
+💻 Desenvolvedor em constante evolução
+
+Tenho foco em desenvolvimento web, programação back-end e criação de sistemas.  
+Busco sempre aprender novas tecnologias e melhorar minhas habilidades na área de software e tecnologia.
+
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
+
+</div>
+
+---
+
+# 📂 Projetos
+
+## 💻 Sistema de Cadastro em Java
+
+Projeto desenvolvido para prática de:
+- Programação Orientada a Objetos
+- Estruturas de decisão
+- Manipulação de dados
+- Interface simples
+
+### Tecnologias:
+☕ Java
+
+---
+
+## 🌐 Site Responsivo
+
+Criação de um site moderno e responsivo voltado para estudos de front-end.
+
+### Tecnologias:
+🌐 HTML5  
+🎨 CSS3
+
+---
+
+## 🐘 Sistema Web com PHP
+
+Sistema web com login e cadastro integrado ao banco de dados.
+
+### Tecnologias:
+🐘 PHP  
+🌐 HTML  
+🎨 CSS
+
+---
+
+# 📸 Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x400.png?text=Meu+Portfólio" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔗 Redes Sociais
+
+<div align="center">
+
+<a href="https://github.com/SEUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/SEUPERFIL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 📚 Atualmente Estudando
+
+- Engenharia de Software
+- Banco de Dados
+- Desenvolvimento Web
+- Java
+- PHP
+- APIs
+- Git & GitHub
+
+---
+
+# 🎯 Objetivo
+
+Construir soluções inteligentes, evoluir como desenvolvedor e atuar profissionalmente na área de tecnologia e engenharia de software.
+
+---
+
+# 📞 Contato
+
+📧 Email: seuemail@email.com
+
+💬 Sempre aberto para aprender, colaborar e participar de novos projetos.
+
+---
+
+# ⭐ Obrigado por visitar meu perfil!
