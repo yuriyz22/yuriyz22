@@ -1,11 +1,11 @@
 # 👨‍💻 Yuri Marques | Portfólio Developer
 
-Olá! Seja bem-vindo ao meu portfólio 🚀  
+Olá! Seja bem-vindo ao meu portfólio  
 Sou Técnico em Informática e estudante de Engenharia de Software, apaixonado por tecnologia, desenvolvimento de sistemas e criação de soluções web.
 
 ---
 
-# 🚀 Sobre Mim
+#  Sobre Mim
 
 🎓 Técnico em Informática  
 📚 Estudante de Engenharia de Software  
@@ -16,7 +16,7 @@ Busco sempre aprender novas tecnologias e melhorar minhas habilidades na área d
 
 ---
 
-# 🛠️ Linguagens
+#  Linguagens
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Busco sempre aprender novas tecnologias e melhorar minhas habilidades na área d
 
 ---
 
-# 📚 Atualmente Estudando
+#  Atualmente Estudando
 
 - Engenharia de Software
 - Banco de Dados
@@ -61,10 +61,10 @@ Busco sempre aprender novas tecnologias e melhorar minhas habilidades na área d
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Construir soluções inteligentes, evoluir como desenvolvedor e atuar profissionalmente na área de tecnologia e engenharia de software.
 
 ---
 
-# ⭐ Obrigado por visitar meu perfil!
+# Obrigado por visitar meu perfil!
